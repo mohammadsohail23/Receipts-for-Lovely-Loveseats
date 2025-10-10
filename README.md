@@ -5,8 +5,6 @@ A Python 3 project from Codecademy that calculates customer receipts for a ficti
 ## 👨‍💻 Author
 **Mohammad Z. Sohail**
 
-> Fun fact: I do Codecademy for free time!
-
 ---
 
 ## 🧾 Description
